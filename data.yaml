@@ -1,7 +1,0 @@
-# 数据集路径（必须换成你电脑上的实际路径，注意用反斜杠\或双反斜杠\\）
-train: Z:\py project\Wechat_Record_To_Movies\images\train
-val: Z:\py project\Wechat_Record_To_Movies\images\val
-
-# 类别数和类别名（语音图标只有1类，所以nc=1，names里是标签名）
-nc: 1
-names: ['me']

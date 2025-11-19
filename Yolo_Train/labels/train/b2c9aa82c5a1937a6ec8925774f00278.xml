@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>b2c9aa82c5a1937a6ec8925774f00278.jpg</filename>
+	<path>Z:\py project\Wechat_Record_To_Movies\images\train\b2c9aa82c5a1937a6ec8925774f00278.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>2772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>other</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>1833</ymin>
+			<xmax>271</xmax>
+			<ymax>1903</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>other</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>2137</ymin>
+			<xmax>269</xmax>
+			<ymax>2216</ymax>
+		</bndbox>
+	</object>
+</annotation>
